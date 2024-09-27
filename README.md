@@ -34,9 +34,9 @@ Welcome to my GitHub portfolio! I'm a master's student in Computer Science with 
 
 Feel free to reach out to me for collaboration or just to connect!
 
-- **Email:** abhya.reddy@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+- **Email:** abhyareddyambati@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/abhyareddy)
+
 
 Thanks for visiting my portfolio! 🎉
 
